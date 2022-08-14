@@ -1,0 +1,72 @@
+{
+    "name": "Aditi",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Aditi Singh - curious",
+    "headerTaglineThree": "marketing enthusiast",
+    "headerTaglineFour": " based in Mumbai, India.",
+    "showBlog": true,
+    "darkMode": false,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Linkedin",
+            "link": "https://www.linkedin.com/in/aditi-singh-380718244/"
+        },
+        {
+            "id": "2",
+            "title": "Email",
+            "link": "mailto:easyaditi@gmail.com"
+        },
+        {
+            "id": "3",
+            "title": "Download Resume",
+            "link": "mailto:easyaditi@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Master of Business Administration",
+            "description": "ITM group of Institutions. Mumbai",
+            "imageSrc": "https://unsplash.com/photos/LJtfV2Dkp4U/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjYwNDcyMTA1&force=true&w=1920",
+            "url": "/"
+        },
+        {
+            "id": "2",
+            "title": "Bachelor of Business Administration",
+            "description": "SHIATS, Prayagraj",
+            "imageSrc": "https://unsplash.com/photos/_kd5cxwZOK4/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjYwNDgyMDY0&force=true&w=1920",
+            "url": "/"
+        },
+        {
+            "id": "3",
+            "title": "Schooling",
+            "description": "Ewing Christian Public School. Prayagraj",
+            "imageSrc": "https://unsplash.com/photos/U3rnc_wrtMc/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjYwNDgxOTI5&force=true&w=1920",
+            "url": "/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Marketing",
+            "description": "I love the process of exploring, creating, and delivering value to meet the needs of a target market in terms of goods and services"
+        },
+        {
+            "id": "2",
+            "title": "Leadership",
+            "description": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. ~ Lao Tzu"
+        },
+        {
+            "id": "3",
+            "title": "Management",
+            "description": "Good management consists of showing average people how to do the work of superior people. ~ John D. Rockefeller."
+        },
+        {
+            "id": "4",
+            "title": "Excel",
+            "description": "Microsoft Excel is a spreadsheet developed by Microsoft. Tt can display data as line graphs, histograms and charts, and with a very limited three-dimensional graphical display."
+        }
+    ],
+    "aboutpara": "My name is Aditi Singh pursuing Master of Business Administration from ITM group of Institutions. born and bought up in the city Prayagraj , which is known for the place of offering. Currently living in Mumbai know as the city of dreams , came here for my post graduation degree in MBA . This place has given me good friends and, some life lessons. Made me understand it is so hard to be far away from your loved ones."
+}
